@@ -35,7 +35,7 @@ Criar um vídeo utilizando inteligência artificial generativa para voz e geraç
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi utilizado  para criar um avatar virtual , voz sintetizada, e edição do vídeo.
 
 ## 🚀 Resultados
-No vídeo  eu falo sobre o desafio proposto pela DIO.Apresente os resultados do seu projeto
+No vídeo  eu falo sobre o desafio proposto pela DIO e utilizando os conceitos aprendidos.
 
 https://studio.d-id.com/share?id=1fe31c0a7f6920e2f71f7b58e97e8179&utm_source=copy
 
